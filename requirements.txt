@@ -1,0 +1,15 @@
+langchain
+langchain_openai
+bs4
+minify_html
+html2text
+langchain_aws
+langchain_community
+free-proxy
+playwright
+simpleeval
+jsonschema
+undetected-playwright
+pillow
+selenium
+webdriver_manager
