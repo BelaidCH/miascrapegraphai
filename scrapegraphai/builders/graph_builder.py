@@ -5,7 +5,7 @@ GraphBuilder Module
 from langchain.chains import create_extraction_chain
 from langchain_community.chat_models import ErnieBotChat
 from langchain_core.prompts import ChatPromptTemplate
-from langchain_openai import ChatOpenAI
+#from langchain_openai import ChatOpenAI
 
 from ..helpers import graph_schema, nodes_metadata
 

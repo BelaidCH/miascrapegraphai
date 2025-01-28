@@ -13,12 +13,19 @@ setup(
         "free-proxy",
         "langchain",
         "langchain_community",
-        # Add other dependencies here
+        "langchain_openai",
+        "bs4",
+        "minify_html",
+        "html2text",
+        "langchain_aws",
+        "simpleeval",
+        "jsonschema",
+        "undetected-playwright"
     ],
     description="A package for scraping and processing web data",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="BelaidChaikhi",
-    author_email="your.email@example.com",
-    url="https://github.com/BelaidChaikhi/scrapegraphai",
+    author_email="belaid@digitalent.ai",
+    url="https://github.com/BelaidCh/scrapegraphai",
     )
